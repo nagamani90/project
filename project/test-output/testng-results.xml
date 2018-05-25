@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="118952" started-at="2018-05-24T05:37:58Z" finished-at="2018-05-24T05:39:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="118952" started-at="2018-05-24T05:37:58Z" finished-at="2018-05-24T05:39:57Z">
+      <class name="project.par">
+        <test-method status="PASS" signature="sai()[pri:0, instance:project.par@687080dc]" name="sai" duration-ms="118303" started-at="2018-05-24T05:37:58Z" finished-at="2018-05-24T05:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sai -->
+      </class> <!-- project.par -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
